@@ -1,1 +1,1 @@
-# FullStack WebApp (NodeJS and React)
+# FullStack WebApp (NodeJS,React,Redux,Mongo)
